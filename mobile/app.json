@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Sistema de Reservas",
+    "slug": "sistema-reservas",
+    "version": "1.0.0",
+    "scheme": "reservas",
+    "orientation": "portrait",
+    "plugins": ["expo-router"]
+  }
+}
